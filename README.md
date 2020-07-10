@@ -1,2 +1,2 @@
 # bem
-Some of tests of bem methodology
+Practising BEM methodology
